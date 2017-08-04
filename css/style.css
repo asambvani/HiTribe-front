@@ -1,0 +1,129 @@
+.card .card-content {
+    padding: 0px 12px;
+    border-radius: 0 0 2px 2px;
+}
+
+.groups-container .group {
+  color:white
+}
+
+.group-column {
+  background-color: #4e342e;
+}
+.groups-container .group-label {
+  color:#f44336;
+  size:16px;
+  font-weight: bolder;
+}
+
+.input-container {
+  height: 80px;
+  /*background-color: grey;*/
+  position:absolute;
+  bottom:10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  width:65%;
+}
+
+.input-box{
+  width:80%!important;
+}
+
+.messages-container{
+  height:450px!important;
+  padding-left: 10px;
+  padding-left: 10px;
+  overflow:scroll;
+}
+
+.logo{
+  height: 50px;
+  width: 50px;
+  margin: 5px 5px 5px 5px;
+  background-image: url('https://s3.amazonaws.com/hitribe/hitribe.jpg');
+}
+
+.card .card-action{
+  padding:0px;
+  background-color:white
+}
+
+.post {
+  background-color: #efebe9;
+}
+
+#create-form{
+  display: none;
+}
+
+#friends-icon{
+  margin-right: 5px;
+}
+
+a i {
+  color:#f44336;
+}
+
+.message-container{
+float:left;
+width: 100%
+}
+
+.avatar{
+  float:left;
+  margin: 10px;
+  padding:0px;
+
+}
+
+
+
+.avatar img{
+  border-radius: 15px 15px 15px;
+}
+
+.message-content{
+float:left;
+width: 200px;
+margin:10px;
+
+}
+
+.post-container{
+  float:left;
+  background-color:#efebe9;
+  width:100%;
+  margin-right:10px;
+}
+
+.post-content{
+  padding:10px;
+
+}
+
+.card-action{
+  padding-left:100px!important;
+  padding-right:10px!important;
+}
+
+.post-text{
+ float:left;
+ height:50px;
+}
+
+.card .card-reveal .card-title {
+    cursor: none;
+    display: none;
+}
+
+.comment{
+  float:left;
+  width:100%;
+}
+
+
+
+.gif {
+  position: relative;
+}
